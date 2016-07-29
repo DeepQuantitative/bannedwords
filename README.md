@@ -8,6 +8,11 @@
 * 广告
 * 脏话
 
+#在线检查工具
+[http://www.text.wiki/check_block_words.html](http://www.text.wiki/check_block_words.html)
+
+![敏感词在线检查工具截图](http://ww4.sinaimg.cn/mw1024/7ed0a961jw1f6aw9m923xj211w0tsgni.jpg)
+
 #如何使用
 发布违禁词本身就是违禁的。。。所以生成的词库都用base64编码。
 大家使用时，可以用 decrypt.php filename 解码，例如：
